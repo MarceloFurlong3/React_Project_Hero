@@ -8,8 +8,10 @@ import './stles.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
     <React.StrictMode>
         <Counterapp value={1}></Counterapp>
-        <Marcelo></Marcelo>
+        {/* <Marcelo></Marcelo> */}
+    {/* <FirstApp title='Titulazo'></FirstApp> */}
     </React.StrictMode>
+
 )
 
 
